@@ -9,13 +9,22 @@ I'm a full-stack developer focused on building beautiful, interactive web apps a
 - 🛠️ **Tech:** React, TypeScript, D3, Next.js, Node.js
 - 🎨 **UI/UX:** Modern, accessible, and responsive design
 - 📊 **Data:** Love for visualizing complex data
-- 🚀 **Projects:** 
+
+## 🔗 Portfolio
+- 🌐 **Website:** [zahoor.dev](https://zahoor.dev)
+  
+## 🚀 **Featured Repositories:** 
    - [Chess Opening Visualizer](https://github.com/its4zahoor/chess-opening-visualizer),
    - [Portfolio](https://github.com/its4zahoor/dev-portfolio),
    - [stopwatch](https://github.com/its4zahoor/stopwatch),
    - [tic-tac-toe](https://github.com/its4zahoor/tic-tac-toe)
    - and other repositories
-- 🌐 **Website:** [zahoor.dev](https://zahoor.dev)
+
+## 🚀 Featured Projects (Live)
+
+- [**Chess Opening Visualizer**](https://chess-openings.zahoor.dev/)  
+  Interactive chess opening tree visualizer built with React and D3.  
+  [Source code](https://github.com/its4zahoor/chess-opening-visualizer)
 
 ## 📈 GitHub Stats
 
